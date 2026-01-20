@@ -4,8 +4,9 @@
 ## ゲームの内容
 魔法弾を発射できるプレイヤーを操作して敵を倒そう
 
-![画面イメージ](<img width="1925" height="1086" alt="スクリーンショット 2026-01-17 180359" src="https://github.com/user-attachments/assets/2df49bb0-0555-469d-8e52-4a7bd5449902" />
-)
+![画面イメージ]
+
+<img width="1925" height="1086" alt="スクリーンショット 2026-01-17 180359" src="https://github.com/user-attachments/assets/baf904cd-ea66-467d-ad95-2343ebf24ef7" />
 
 ## 操作説明
 - WASDでプレイヤーキャラクターを操作
